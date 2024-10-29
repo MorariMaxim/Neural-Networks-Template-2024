@@ -1,0 +1,1 @@
+https://towardsdatascience.com/deriving-backpropagation-with-cross-entropy-loss-d24811edeaf9
